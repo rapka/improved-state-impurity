@@ -10,6 +10,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+main {
+  background-color: #444444;
+}
+
 .text-teal {
   color: #1ba97f;
 }

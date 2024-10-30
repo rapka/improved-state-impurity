@@ -146,7 +146,7 @@ class App extends Component {
         </main>
         <footer>
           <div class="container text-center font-italic text-muted p-4">
-            Spartans Will
+            🏳️‍⚧️
           </div>
         </footer>
       </Fragment>
