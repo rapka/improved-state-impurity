@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/improved-state-impurity/static/css/main.85d10231.chunk.css",
+    "main.css": "/improved-state-impurity/static/css/main.7280c1ee.chunk.css",
     "main.js": "/improved-state-impurity/static/js/main.46a7c4bf.chunk.js",
     "main.js.map": "/improved-state-impurity/static/js/main.46a7c4bf.chunk.js.map",
     "runtime-main.js": "/improved-state-impurity/static/js/runtime-main.593f540b.js",
@@ -8,15 +8,15 @@
     "static/js/2.6a496276.chunk.js": "/improved-state-impurity/static/js/2.6a496276.chunk.js",
     "static/js/2.6a496276.chunk.js.map": "/improved-state-impurity/static/js/2.6a496276.chunk.js.map",
     "index.html": "/improved-state-impurity/index.html",
-    "precache-manifest.965c5fb9e78c75fce0a4e8163461bfa6.js": "/improved-state-impurity/precache-manifest.965c5fb9e78c75fce0a4e8163461bfa6.js",
+    "precache-manifest.e4d583023a3220ce3b1aef0070a3a893.js": "/improved-state-impurity/precache-manifest.e4d583023a3220ce3b1aef0070a3a893.js",
     "service-worker.js": "/improved-state-impurity/service-worker.js",
-    "static/css/main.85d10231.chunk.css.map": "/improved-state-impurity/static/css/main.85d10231.chunk.css.map",
+    "static/css/main.7280c1ee.chunk.css.map": "/improved-state-impurity/static/css/main.7280c1ee.chunk.css.map",
     "static/js/2.6a496276.chunk.js.LICENSE.txt": "/improved-state-impurity/static/js/2.6a496276.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.593f540b.js",
     "static/js/2.6a496276.chunk.js",
-    "static/css/main.85d10231.chunk.css",
+    "static/css/main.7280c1ee.chunk.css",
     "static/js/main.46a7c4bf.chunk.js"
   ]
 }
