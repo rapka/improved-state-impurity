@@ -1,6 +1,6 @@
 {
-  "homepage": "http://senguyen1011.github.io/state-purity",
-  "name": "state-purity",
+  "homepage": "http://rapka.github.io/improved-state-impurity",
+  "name": "improved-state-impurity",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
